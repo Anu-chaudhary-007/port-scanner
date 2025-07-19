@@ -14,11 +14,15 @@ A simple and lightweight Python tool to scan a range of ports on a target host.
 
 - Python 3.12 or later (no external libraries needed)
 
+## 📸 Example Screenshot
+
+![Port Scanner Example](port-scanner%20example.png)
+
 ## 📦 How to Run
 
 ```bash
 python3 main.py
-
+```
 Then enter:
 
 Target IP or domain (e.g., scanme.nmap.org)
@@ -26,8 +30,6 @@ Target IP or domain (e.g., scanme.nmap.org)
 Start port (e.g., 20)
 
 End port (e.g., 100)
-
-
 
 📚 What I Learned
 Basics of socket programming
@@ -42,9 +44,13 @@ Building and packaging a CLI tool
 Anu Chaudhary
 B.Tech CSE (AI/ML) Student
 Interested in Cybersecurity & Ethical Hacking
-LinkedIn: linkedin.com/in/anu-chaudhary-a61043352
+[LinkedIn: Anu Chaudhary](https://www.linkedin.com/in/anu-chaudhary-a61043352)
+
 
 🔐 Disclaimer
-This tool is made for educational purposes only. Use it only on networks you have permission to test.
+This tool is made for educational purposes only.
+Use it only on networks you have permission to test.
+
+
 
 

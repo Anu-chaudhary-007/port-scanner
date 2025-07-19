@@ -16,7 +16,7 @@ A simple and lightweight Python tool to scan a range of ports on a target host.
 
 ## 📸 Example Screenshot
 
-![Port Scanner Example](port-scanner%20example.png)
+![Port Scanner Example](port-scannerexample.png)
 
 ## 📦 How to Run
 
